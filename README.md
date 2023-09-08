@@ -14,7 +14,7 @@
    cd react-photo-gallery
    npm install
 
-2. Configure your Unsplash API access key in src/api/unsplash.js.
+2. Configure your Unsplash API access key in src/app.jsx
 
 3. Start the development server:
 
