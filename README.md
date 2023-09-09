@@ -1,7 +1,7 @@
 # Welcome to our React Photo Gallery, powered by the Unsplash API. Easily search for photos and navigate through them using pagination.
 
 
-[Visit : ](https://reactphotogallery.vercel.app/)
+Visit [here](https://reactphotogallery.vercel.app/)
 
 ## Features
 
